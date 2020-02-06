@@ -49,7 +49,7 @@ e.g. dificult to identify handwritting
 
 * encode the required mapping
 
-![Diagram](./pictures/ml_ingredients.png "Dipiction of machine learning Concept")
+![Diagram](./pictures/ml_ingredients.PNG "Dipiction of machine learning Concept")
 
 Figuring out what features are being analysed is important. Do you need edge detection or do you refer to pixels in an image. What parameters and models do you use.
 
@@ -79,7 +79,7 @@ In the supervised machine learning paradigm, each element of training data has a
 
 * The model should be good at generalising from training data. i.e. be good at predicting output for unseen data.
 
-![image](./pictures/supervised_learning.png "Supervised learning data set")
+![image](./pictures/supervised_learning.PNG "Supervised learning data set")
 
 ## Unsupervised Learning:
 These do not require labels.
@@ -91,7 +91,7 @@ These do not require labels.
 * The choice isn't always full/no supervision.
 * Semi-supervised machine learning use labels only on a **subset** of the data. 
 
-![image](./pictures/semi_supervised_learning.png "Semi-Supervised learning data set")
+![image](./pictures/semi_supervised_learning.PNG "Semi-Supervised learning data set")
 
 * This is important especially with labels that are expensive
     * A senario where this will be relevant: hiring scientists to individually label stars.
