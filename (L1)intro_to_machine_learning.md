@@ -57,19 +57,21 @@ Figuring out what features are being analysed is important. Do you need edge det
 * Binary (C = 2): classification involves seperating data into two distinct groups. e.g.(+ and -)
     * 'c' is the number of classifications
 
-* Regression:
-    * Involves mapping from data items to real values e.g.  quantifying the risk of heart disease based on personal health records. (It's like a prediction. predicting what something will be depending on real values given. e.g. satellite data for weather)
+## Clustering:
+* grouping data as clusters based on their characteristics.
+    * e.g.  grouping people according to their genetic characteristics.
 
-* Clustering:
-    * grouping data as clusters based on their characteristics.
-        * e.g.  grouping people according to their genetic characteristics.
+(you are finding what the groups will be wheras in classification you know what they are) - that's why its different from classification.
 
-* collaborative filtering
-    * Identifying rules or associations from data.
-        * e.g.  “recommending” diseases on the basis of patient records and diseases of similar patients.
+## Regression:
+* Involves mapping from data items to real values e.g.  quantifying the risk of heart disease based on personal health records. (It's like a prediction. predicting what something will be depending on real values given. e.g. satellite data for weather)
 
-* Dimensionality reduction
-    * UNDERSTANDING YOUR DATA! ALWAYS LOOK AT YOUR DATA. GIVES YOU AN INSIGHT INTO THE PROBLEM.
+## collaborative filtering
+* Identifying rules or associations from data.
+    * e.g.  “recommending” diseases on the basis of patient records and diseases of similar patients.
+
+## Dimensionality reduction
+* UNDERSTANDING YOUR DATA! ALWAYS LOOK AT YOUR DATA. GIVES YOU AN INSIGHT INTO THE PROBLEM.
 
 ## Supervised Learning:
 In the supervised machine learning paradigm, each element of training data has associated labels.
